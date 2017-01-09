@@ -7,3 +7,4 @@ There are several example programs, for use as a tutorial.
 
 This is an early version, uploaded to GitHub to guage interest. It is fully functioning - I've used it to layout and draw the grid and clues for a crossword. If there is sufficient interest, I will extend and maintain it. In particular, I could add a package which understands the peculiarites of text documents - sections, headers, footnotes, table & diagram inserts, etc. 
 
+BlockFrame currently uses library PDF-Box 2.0.3. 
