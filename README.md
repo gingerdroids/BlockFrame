@@ -1,5 +1,5 @@
 # BlockFrame
-BlockFrame is a layer on top of PDF-Box. Essentially, PDF-Box knows how to write content to a PDF, but not where. BlockFrame fills this gap. It measures and positions content, then writes a PDF file using PDF-Box.
+BlockFrame is a layer on top of Apache PDF-Box. Essentially, PDF-Box knows how to write content to a PDF, but not where. BlockFrame fills this gap. It measures and positions content, then writes a PDF file using PDF-Box.
 
 BlockFrame has been developed for highly structured documents. It is designed to be extensible. 
 
